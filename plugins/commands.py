@@ -62,7 +62,7 @@ async def start(client, message):
         await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ sтαятιиg..__")
         await asyncio.sleep(0.2)
         await accha.delete()
-        umm = await m.reply_sticker(CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
+        umm = await m.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
         await asyncio.sleep(2)
         await umm.delete()
         await message.reply_photo(
@@ -122,7 +122,7 @@ async def start(client, message):
         await accha.edit("__ᴅιиg ᴅσиg ꨄ︎ sтαятιиg..__")
         await asyncio.sleep(0.2)
         await accha.delete()
-        umm = await m.reply_sticker(CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
+        umm = await m.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
         await asyncio.sleep(2)
         await umm.delete()
         await message.reply_photo(
